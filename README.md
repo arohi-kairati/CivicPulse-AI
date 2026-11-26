@@ -1,5 +1,7 @@
 # CivicPulse AI — Smart Civic Issue Reporting & Priority Routing
 
+**Live Demo:** https://civic-pulse-ai-lemon-eight.vercel.app
+
 An AI-powered civic complaint triage platform that turns citizen photo reports into prioritized, deduplicated, department-routed municipal tickets.
 
 ## Key Features
